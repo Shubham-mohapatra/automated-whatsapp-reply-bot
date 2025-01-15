@@ -29,4 +29,4 @@ A Selenium-based Python bot that automatically replies to unread messages on Wha
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/automated-whatsapp-reply-bot.git
-   cd automated-whatsapp-reply-bot
+   cd automated-whatsapp
