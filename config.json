@@ -1,0 +1,6 @@
+{
+    "chromedriver_path": "C:\\Users\\KIIT\\projects\\automated-whatsapp\\chromedriver.exe",
+    "contacts": ["Mom", "Soumya", "Papa"],
+    "message_template": "Dear {name}, He is sleeping right now! This is an auto-reply from his bot. Thanks!"
+}
+
